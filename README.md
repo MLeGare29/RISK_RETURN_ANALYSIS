@@ -73,7 +73,6 @@ Accessing JupyterLab in Bash:
 *Marcus LeGare (Author, Developer)*
 
 *Anne Shaji (Learning Assistant)*
----
 
 ## LICENSE
 
