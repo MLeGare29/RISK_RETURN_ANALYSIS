@@ -60,13 +60,13 @@ Accessing JupyterLab in Bash:
 
 ## HEDGE FUND LINKS
 
-[Berkshire Hathaway INC](https://www.berkshirehathaway.com/)
+[Berkshire Hathaway INC.](https://www.berkshirehathaway.com/)
 
-[Paulson & CO INC](https://paulsoninvestment.com/)
+[Paulson & CO, LLC](https://paulsoninvestment.com/)
 
-[Soros Fund Managment LLC](https://sorosfundmgmt.com/)
+[Soros Fund Managment LLC.](https://sorosfundmgmt.com/)
 
-[Tiger Global](https://www.tigerglobal.com/)
+[Tiger Global, LLC](https://www.tigerglobal.com/)
 
 ## CONTRIBUTORS
 
