@@ -64,7 +64,7 @@ Accessing JupyterLab in Bash:
 
 [Paulson & CO, LLC](https://paulsoninvestment.com/)
 
-[Soros Fund Managment LLC.](https://sorosfundmgmt.com/)
+[Soros Fund Managment, LLC.](https://sorosfundmgmt.com/)
 
 [Tiger Global, LLC](https://www.tigerglobal.com/)
 
