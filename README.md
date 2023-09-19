@@ -1,5 +1,3 @@
-# M4_CHALLENGE
-
 # RISK-RETURN ANALYSIS
 
 In this repository, I have prepared a Jupyter Lab Notebook containing data analysis and visualizations of the risk and return metrics for four major hedge funds: **Berkshire Hathaway**, **Paulson & CO**, **Soros Fund Management**, and **Tiger Global**, measured against the **S&P 500** Exchange. Using quantative analysis, the following elements are analyzed:
